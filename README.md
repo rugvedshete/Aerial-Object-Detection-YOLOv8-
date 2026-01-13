@@ -5,9 +5,7 @@ This is an improved model based on YOLOv8 for target detection from the perspect
 
 ## CODE：
 you can get the official  YOLOv8 code at https://github.com/ultralytics/ultralytics
-,get the pruning code at https://github.com/VainF/Torch-Pruning
-
-and then add our improvement code to the project.
+,get the pruning code at https://github.com/VainF/Torch-Pruning then add our improvement code to the project.
 
 ## DATASETS：
 
